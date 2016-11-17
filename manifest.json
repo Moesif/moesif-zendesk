@@ -1,0 +1,15 @@
+{
+  "name": "Moesif ZD",
+  "author": {
+    "name": "Moesif Inc",
+    "email": "xing@moesif.com",
+    "url": "https://www.moesif.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": { "zendesk":
+    { "ticket_sidebar": "https://www.moesif.com/plugin/zendesk" }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
