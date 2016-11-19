@@ -6,7 +6,7 @@
         "url": "https://www.moesif.com"
     },
     "defaultLocale": "en",
-    "private": true,
+    "private": false,
     "location": {
         "zendesk": {
             "ticket_sidebar": "https://www.moesif.com/plugin/zendesk"
