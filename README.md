@@ -1,18 +1,22 @@
 # Moesif Plugin
 
-View user traces and errors as you view the ticket.
+Import error traces, device info, and customer data right into Zendesk tickets
 
-### The following information is displayed in the plugin:
+### Description:
 
-* The ticket requester's profile as tracked by Moesif, include devices, user agent, ip and more.
-* The traced event and API calls experienced by the ticket requester.
-* The error traces and bugs that encountered by the ticket requester.
+[Moesif advanced error analysis](https://www.moesif.com) makes debugging your customers’ issues far easier.  Ensure your customers succeed by having quick turnaround time rather than being stalled by incomplete log data. With Moesif, you have visibility to customers’ API history, error traces, and deep root cause analysis.
+
+Resolve technical issues faster:
+
+* Import user profile data such as browser/device, sdk version, and location
+* Import customer’s API history
+* Triage against similar errors
 
 ### Installation
 
-Please obtain your third party plugin app token from your Moesif account. If you don't have a Moesif account, please contact us at [product@moesif.com](mailto:product@moesif.com).
+* Login to Moesif.com
+* Go Settings and copy your partner integration token
+* Paste integration token into Zendesk plugin field
+* Click Install
 
-Please submit bug reports to [team@moesif.com](mailto:team@moesif.com).
-
-### Screenshot(s):
-[put your screenshots down here.]
+Please submit bug reports to [support@moesif.com](mailto:support@moesif.com).
