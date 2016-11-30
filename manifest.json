@@ -8,12 +8,13 @@
     "defaultLocale": "en",
     "private": false,
     "location": {
-        "zendesk": {
+        "support": {
             "ticket_sidebar": "https://www.moesif.com/plugin/zendesk"
         }
     },
     "version": "1.0",
     "frameworkVersion": "2.0",
+    "domainWhitelist": ["www.moesif.com", "web-dev.moesif.com", "moesif.com"],
     "parameters": [{
         "name": "token",
         "type": "text",
