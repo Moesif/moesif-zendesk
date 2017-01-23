@@ -19,7 +19,7 @@
         "name": "token",
         "type": "text",
         "required": true,
-        "secure": true,
+        "secure": false,
         "default": "Plugin token obtained from your Moesif account"
     }]
 }
