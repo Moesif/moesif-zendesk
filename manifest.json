@@ -12,7 +12,7 @@
             "ticket_sidebar": "https://www.moesif.com/plugin/zendesk"
         }
     },
-    "version": "1.0",
+    "version": "1.1",
     "frameworkVersion": "2.0",
     "domainWhitelist": ["www.moesif.com", "web-dev.moesif.com", "moesif.com"],
     "parameters": [{
