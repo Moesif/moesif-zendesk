@@ -1,7 +1,9 @@
 {
   "app": {
-    "description": "Import error traces, device info, and customer data right into Zendesk tickets",
-    "name": "Moesif"
+    "name": "Moesif",
+    "short_description": "Play the famous zen tunes in your help desk.",
+    "long_description": "Import API history, API errors, and customer data right into Zendesk tickets",
+    "installation_instructions": "Simply click install."
   },
   "loading": "Welcome to Moesif Zendesk Plugin",
   "fetch": {
