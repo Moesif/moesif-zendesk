@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "Moesif",
-    "short_description": "Play the famous zen tunes in your help desk.",
+    "short_description": "Link customer data from Zendesk to user profile in Moesif",
     "long_description": "Import API history, API errors, and customer data right into Zendesk tickets",
     "installation_instructions": "Simply click install."
   },
