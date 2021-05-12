@@ -1,14 +1,14 @@
 {
   "app": {
     "name": "Moesif",
-    "short_description": "Link customer data from Zendesk to user profile in Moesif",
-    "long_description": "Import API history, API errors, and customer data right into Zendesk tickets",
-    "installation_instructions": "Simply click install."
+    "short_description": "Resolve customer issues faster with Moesif API Analytics",
+    "long_description": "With the Moesif Zendesk plugin, get context on the user and their API activity right in Zendesk tickets",
+    "installation_instructions": " - Login to Moesif.com\n - Go Settings -> Extensions Setup and copy your partner integration token\n - Paste integration token into Zendesk plugin field\n - Click Install"
   },
-  "loading": "Welcome to Moesif Zendesk Plugin",
+  "loading": "Welcome to the Moesif Zendesk Plugin",
   "fetch": {
-    "done": "Good",
-    "fail": "failed to fetch information from the server"
+    "done": "Done",
+    "fail": "Failed to fetch information from the server"
   },
   "id": "ID",
   "email": "Email",
