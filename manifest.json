@@ -1,7 +1,7 @@
 {
     "name": "Moesif",
     "author": {
-        "name": "Moesif Inc",
+        "name": "Moesif Inc.",
         "email": "xing@moesif.com",
         "url": "https://www.moesif.com"
     },
@@ -9,10 +9,11 @@
     "private": false,
     "location": {
         "support": {
-            "ticket_sidebar": "https://www.moesif.com/plugin/zendesk"
+            "ticket_sidebar": "https://www.moesif.com/plugin/zendesk",
+            "user_sidebar": "https://www.moesif.com/plugin/zendesk"
         }
     },
-    "version": "1.1",
+    "version": "1.2",
     "frameworkVersion": "2.0",
     "domainWhitelist": ["www.moesif.com", "web-dev.moesif.com", "moesif.com"],
     "parameters": [{
