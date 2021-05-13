@@ -3,7 +3,7 @@
     "name": "Moesif",
     "short_description": "Resolve customer issues faster with Moesif API Analytics",
     "long_description": "With the Moesif Zendesk plugin, get context on the user and their API activity right in Zendesk tickets",
-    "installation_instructions": " - Login to Moesif.com\n - Go Settings -> Extensions Setup and copy your partner integration token\n - Paste integration token into Zendesk plugin field\n - Click Install"
+    "installation_instructions": " - Login to Moesif.com\n - Go to Settings -> Extensions Setup and copy your partner integration token\n - Paste integration token into Zendesk plugin field\n - Click Install"
   },
   "loading": "Welcome to the Moesif Zendesk Plugin",
   "fetch": {
@@ -15,5 +15,10 @@
   "name": "Name",
   "role": "Role",
   "groups": "Groups",
-  "token": "Token"
+  "parameters": {
+    "token": {
+      "label": "Plugin Token",
+      "helpText": "Please obtain your Zendesk token from your Moesif Account: Settings -> Extensions -> Zendesk."
+    }
+  }
 }
